@@ -1,1 +1,2 @@
-# wdi-fundamentals-memorygame
+# Memorygame
+Memory game in javascript
